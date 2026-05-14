@@ -1,0 +1,37 @@
+#container{
+    width:600px;
+    height:300px;
+    border: 2px solid black;
+    border-color: black;
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+     flex-wrap: wrap; 
+     align-content:end;
+     
+}
+#box1{
+    height:90px;
+    width: 90px;
+    background-color: aqua;
+}
+#box2{
+    height:90px;
+    width: 90px;
+    background-color:blue;
+}
+#box3{
+    height:90px;
+    width: 90px;
+    background-color: rgb(233, 43, 214);
+}
+#box4{
+    height:90px;
+    width: 90px;
+    background-color: rgb(171, 10, 10);
+}
+#box5{
+    height:90px;
+    width: 90px;
+    background-color: rgb(192, 202, 13);
+}
