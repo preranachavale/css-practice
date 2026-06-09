@@ -1,0 +1,25 @@
+h1{
+    color:rgb(10, 133, 227);
+    text-align:center;
+    background-color: rgb(221, 185, 23);
+}
+h2{
+    text-decoration: underline;
+    text-decoration-style: solid;
+    text-decoration-color: rgb(10, 133, 227);;
+}
+a{
+    text-decoration: none;
+    line-height: 2;
+}
+#html{
+    letter-spacing:2px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-transform: uppercase;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+
+}
